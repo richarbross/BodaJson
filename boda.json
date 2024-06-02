@@ -1,0 +1,64 @@
+{
+    "BodaAV": [
+        {
+            "nombre": "Juan Perez",
+            "num_invitados": 3,
+            "mesa": 5,
+            "llegada": true
+        },
+        {
+            "nombre": "Maria Lopez",
+            "num_invitados": 2,
+            "mesa": 3,
+            "llegada": false
+        },
+        {
+            "nombre": "Carlos Garcia",
+            "num_invitados": 4,
+            "mesa": 8,
+            "llegada": true
+        },
+        {
+            "nombre": "Ana Martinez",
+            "num_invitados": 1,
+            "mesa": 2,
+            "llegada": false
+        },
+        {
+            "nombre": "Luis Rodriguez",
+            "num_invitados": 5,
+            "mesa": 10,
+            "llegada": true
+        },
+        {
+            "nombre": "Elena Diaz",
+            "num_invitados": 3,
+            "mesa": 4,
+            "llegada": true
+        },
+        {
+            "nombre": "Roberto Gomez",
+            "num_invitados": 2,
+            "mesa": 6,
+            "llegada": false
+        },
+        {
+            "nombre": "Laura Fernandez",
+            "num_invitados": 3,
+            "mesa": 7,
+            "llegada": true
+        },
+        {
+            "nombre": "Miguel Sanchez",
+            "num_invitados": 4,
+            "mesa": 9,
+            "llegada": true
+        },
+        {
+            "nombre": "Patricia Ramirez",
+            "num_invitados": 1,
+            "mesa": 1,
+            "llegada": false
+        }
+    ]
+}
